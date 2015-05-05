@@ -1,0 +1,27 @@
+E:\CSE-2.1\CarSImulator\BO\bin\Debug\BO.dll
+E:\CSE-2.1\CarSImulator\BO\bin\Debug\BO.pdb
+E:\CSE-2.1\CarSImulator\BO\bin\Debug\Entity.dll
+E:\CSE-2.1\CarSImulator\BO\bin\Debug\Entity.pdb
+E:\CSE-2.1\CarSImulator\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+E:\CSE-2.1\CarSImulator\BO\obj\Debug\BO.dll
+E:\CSE-2.1\CarSImulator\BO\obj\Debug\BO.pdb
+E:\CSE-2.1\CarSImulator\BO\bin\Debug\DAL.dll
+E:\CSE-2.1\CarSImulator\BO\bin\Debug\DAL.pdb
+G:\Microsoft.com\Visual Studio Projects\CarSImulator\BO\bin\Debug\BO.dll
+G:\Microsoft.com\Visual Studio Projects\CarSImulator\BO\bin\Debug\BO.pdb
+G:\Microsoft.com\Visual Studio Projects\CarSImulator\BO\bin\Debug\DAL.dll
+G:\Microsoft.com\Visual Studio Projects\CarSImulator\BO\bin\Debug\Entity.dll
+G:\Microsoft.com\Visual Studio Projects\CarSImulator\BO\bin\Debug\DAL.pdb
+G:\Microsoft.com\Visual Studio Projects\CarSImulator\BO\bin\Debug\Entity.pdb
+G:\Microsoft.com\Visual Studio Projects\CarSImulator\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+G:\Microsoft.com\Visual Studio Projects\CarSImulator\BO\obj\Debug\BO.dll
+G:\Microsoft.com\Visual Studio Projects\CarSImulator\BO\obj\Debug\BO.pdb
+K:\ \CarSImulator\BO\bin\Debug\BO.dll
+K:\ \CarSImulator\BO\bin\Debug\BO.pdb
+K:\ \CarSImulator\BO\bin\Debug\DAL.dll
+K:\ \CarSImulator\BO\bin\Debug\Entity.dll
+K:\ \CarSImulator\BO\bin\Debug\DAL.pdb
+K:\ \CarSImulator\BO\bin\Debug\Entity.pdb
+K:\ \CarSImulator\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+K:\ \CarSImulator\BO\obj\Debug\BO.dll
+K:\ \CarSImulator\BO\obj\Debug\BO.pdb
